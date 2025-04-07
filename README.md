@@ -29,4 +29,4 @@ This repository contains a script that retrieves the saved WiFi passwords from a
     ```
 
 This will execute the script and display the saved WiFi profiles and their corresponding passwords.
-This repositery is puerly created for education purpose and should not be used for any other purpose than learning.
+
